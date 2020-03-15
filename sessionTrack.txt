@@ -3,8 +3,25 @@ Today's Session (15-Mar-2020) :
 1. Introduction to the computer.
 2. Introduction to the programming & Programming Languages. 
 3. What is syntax ? 
-4. Does it good to stay with one programming Language Ever ? 
+4. Does it good to stay with one programming Language Ever ?
 5. Introduction to JAVA programming.
 6. Writing Hello World program in JAVA and Understanding it from scratch. 
 7. Understanding the DATA TYPES.
 8. QA Session and preparing the next week study plan.
+
+Notes:
+
+1. Computer can understand only machine level language( zeros and ones ).
+2. Human understandable language,
+3. Human Undestandable language to machine level language ( Compiler ).
+4. syntax is like grammer.
+5. C, C++, Java, Javascript, Python, RubyRails. (To learn basic - Maximum 10 Week)
+6. JAVA -> OOPS (Object Oriented Programming).
+7. To compile the java program: javac <filename>
+8. After program compiled : java <classname>
+
+
+Next week Study plan: 
+1. Reviewing Code of sample programs. 
+2. Understanding the DATA TYPES.
+3. Basic Arithmatic operations and logical operations. (Operators)
