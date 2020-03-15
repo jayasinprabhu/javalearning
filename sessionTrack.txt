@@ -1,0 +1,10 @@
+Today's Session (15-Mar-2020) :
+
+1. Introduction to the computer.
+2. Introduction to the programming & Programming Languages. 
+3. What is syntax ? 
+4. Does it good to stay with one programming Language Ever ? 
+5. Introduction to JAVA programming.
+6. Writing Hello World program in JAVA and Understanding it from scratch. 
+7. Understanding the DATA TYPES.
+8. QA Session and preparing the next week study plan.
