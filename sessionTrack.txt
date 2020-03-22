@@ -24,4 +24,12 @@ Notes:
 Next week Study plan: 
 1. Reviewing Code of sample programs. 
 2. Understanding the DATA TYPES.
-3. Basic Arithmatic operations and logical operations. (Operators)
+3. Understanding Class.
+4. Basic Arithmatic operations and logical operations. (Operators)
+
+
+
+Notes: 
+1. Filename and class name should be same (With case sesntive).
+2. String Concatenation.
+3. Arithamatic operation. 
