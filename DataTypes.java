@@ -9,7 +9,6 @@ class DataTypes {
         int subractionOfNumbers = firstNumber - secondNumber; // 0
         int multiplicationOfNumbers = firstNumber * secondNumber; // 100
         int divisionOfNumbers = firstNumber / secondNumber; // 1
-        int moduloDivision = firstNumber % secondNumber; // 0 
 
         /**
          * + => Addition
@@ -25,10 +24,10 @@ class DataTypes {
         System.out.println("subraction of Number " + subractionOfNumbers);
         System.out.println("Multiplication of Number " + multiplicationOfNumbers);
         System.out.println("Division of Number " + divisionOfNumbers);
-        System.out.println("Modulo of Number " + moduloDivision);
     }
 
 }
+
 
 
 

@@ -33,3 +33,17 @@ Notes:
 1. Filename and class name should be same (With case sesntive).
 2. String Concatenation.
 3. Arithamatic operation. 
+
+
+Excersise: 
+
+Create the java program to calculate the simple intrest for the given amount.
+
+capital = 100000;
+interestPecentage = 10;
+
+totalInterst = capital * interestPecentage / 100;
+
+Next Week Study Plan: 
+1. Understanding Arrays; 
+2. Understanding functions;
