@@ -11,6 +11,11 @@ public void <functionName>() {
 
 } 
 
+
+public <Return type> <functionName> () {
+    
+}
+
 */
 
 public void showDetails() {

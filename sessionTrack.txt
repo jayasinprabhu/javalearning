@@ -47,3 +47,20 @@ totalInterst = capital * interestPecentage / 100;
 Next Week Study Plan: 
 1. Understanding Arrays; 
 2. Understanding functions;
+
+
+05-April-2020
+
+1) String Concatenation
+2) Function explanation in deep
+        1) Constructor 
+        2) Argument Passing
+
+3) Data abstraction
+4) Return type and void, 
+    1) Return type Function
+    2) void type Function
+
+
+
+5) Abstraction, Encapsulation.
