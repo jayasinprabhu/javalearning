@@ -64,3 +64,18 @@ Next Week Study Plan:
 
 
 5) Abstraction, Encapsulation.
+
+
+Next week Study Plan: 
+
+- Conditional Statements,
+- Loops
+- Return type in deep,
+
+
+Next week task:
+
+- Write java program for the basic arithmatic operation with constructor, functions with return type and void of two given numbers. 
+
+
+
